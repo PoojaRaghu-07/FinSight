@@ -1,2 +1,2 @@
-# FinSight-AI
+# FinSight
 ML Mini Project
